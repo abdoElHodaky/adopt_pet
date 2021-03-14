@@ -6,21 +6,6 @@ Vuetify applicaiton that allows the user to view a list of objects, sort/filter 
 - Vuetify
 - Vue Router
 
-## Demo
-
-Demo is uploaded on my server. Check this out:
-
-https://vuetify.theflexiseo.com
-
-### Docker
-
-Docker URL: https://hub.docker.com/r/schnapsterdog/vuetify-sample
-
-Run the follow command to pull an image:
-
-```
-docker pull schnapsterdog/vuetify-sample
-```
 
 ## Requirements
 
